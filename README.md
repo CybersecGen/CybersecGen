@@ -11,6 +11,7 @@
 - Continuously learning by building real-world projects and improving defensive security skills
   
 </div>
+
 ---
 
 ## Tools & Technologies
