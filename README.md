@@ -2,18 +2,17 @@
 
 <br><br>
 
-<!--
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔐 Building Azure cloud security projects focused on identity, monitoring, and threat detection  
+- ☁️ Currently deepening my technical expertise through hands-on labs for the AZ-500 Microsoft Azure Security Engineer Associate certification  
+- 🛡 Background in IT Support and SOC Analysis with experience in troubleshooting, security operations, and incident investigation  
+- 🚀 Passionate about cloud security, blue team operations, and practical security engineering  
+- 📚 Continuously learning by building real-world projects and improving defensive security skills  
+
+---
+
+## 🧰 Tools & Technologies
 
 <br><br><br>
 
