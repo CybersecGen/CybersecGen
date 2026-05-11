@@ -1,7 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,40:1d4ed8,75:2563eb,100:60a5fa&height=230&section=header&text=Hi%20there,%20I'm%20Gen%20👋🏼&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<br><br>
-
 ## 👨‍💻 About Me
 
 - 🔐 Building Azure cloud security projects focused on identity, monitoring, and threat detection  
@@ -13,7 +11,5 @@
 ---
 
 ## 🧰 Tools & Technologies
-
-<br><br><br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:60a5fa,30:2563eb,65:1d4ed8,100:1e293b&height=130&section=footer"/>
