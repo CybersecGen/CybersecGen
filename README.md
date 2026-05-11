@@ -1,4 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=240&section=header&text=Hi%20there,%20I'm%20Gen%20👋🏼&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0f172a,50:1e3a8a,75:1d4ed8,100:2563eb&height=240&section=header&text=Hi%20there,%20I'm%20Gen%20👋🏼&fontSize=45&fontColor=38bdf8&animation=fadeIn&fontAlignY=38"/>
+
 <br><br>
 
 <!--
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0ea5e9&height=140&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,25:1d4ed8,50:1e3a8a,75:0f172a,100:020617&height=140&section=footer"/>
