@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:0f3d91,100:1d4ed8&height=230&section=header&text=Hi%20there,%20I'm%20Gen%20👋🏼&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e40af,50:2563eb,100:3b82f6&height=230&section=header&text=Hi%20there,%20I'm%20Gen%20👋🏼&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 ## About Me
 
@@ -14,4 +14,4 @@
 
 <!-- Add your tags/badges here -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,50:0f3d91,100:0b1220&height=130&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:2563eb,100:1e40af&height=130&section=footer"/>
