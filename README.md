@@ -16,6 +16,6 @@
 
 ## Tools & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=azure,windows,py,linux,terraform,powershell,bash,vscode,aws,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,windows,py,linux,aws,terraform,powershell,bash,vscode,html,css)](https://skillicons.dev)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:2563eb,100:1e40af&height=130&section=footer"/>
