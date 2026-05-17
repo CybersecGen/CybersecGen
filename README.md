@@ -2,11 +2,9 @@
 
 ## About Me 
 
-- Building Azure cloud security projects focused on identity, monitoring, and threat detection
-- Currently deepening my technical expertise through hands-on labs for the AZ-500 Microsoft Azure Security Engineer Associate certification
-- Background in IT Support and SOC Analysis with experience in troubleshooting, security operations, and incident investigation
-- Passionate about cloud security, blue team operations, and practical security engineering
-- Continuously learning by building real-world projects and improving defensive security skills </div> 
+- Building Azure security projects focused on identity, monitoring, and threat detection, with hands-on labs aligned to the AZ-500 Microsoft Azure Security Engineer Associate certification
+- Background in IT Support and SOC operations, including troubleshooting, incident investigation, and security monitoring
+- Focused on cloud security, blue team operations, and defensive security engineering </div> 
 
 --- 
 
