@@ -6,7 +6,6 @@
 - Background in IT Support and SOC operations, including troubleshooting, incident investigation, and security monitoring
 - Focused on cloud security, blue team operations, and defensive security engineering </div> 
 
---- 
 
 ## Tools & Technologies 
 
