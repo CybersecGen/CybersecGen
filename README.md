@@ -2,9 +2,8 @@
 
 ## About Me 
 
-- I build and break Azure environments to understand identity, monitoring, and threat detection in practice.
-- Background in IT Support and SOC operations, focused on incident investigation, troubleshooting, and security monitoring in enterprise environments.
-- Currently focused on cloud security, blue team work, and defensive security engineering. </div> 
+- Building and breaking Azure labs to sharpen cloud security skills.
+- Focused on Azure security, identity, monitoring, and threat detection. </div> 
 
 
 ## Tools & Technologies 
