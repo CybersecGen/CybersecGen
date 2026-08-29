@@ -1,4 +1,4 @@
-# GenEthics
+# 🥷🏽 GenEthics
 
 **`Digital Craftsman`**
 
