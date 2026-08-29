@@ -1,6 +1,6 @@
 # 🥷🏽GenEthics
 
-**`Digital Craftsman`**
+**`Digital Craftsman & Cyber Physician`**
 
 I'm a Cybersecurity Engineer, Linux user, Java apologist.
 
