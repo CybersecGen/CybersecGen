@@ -8,4 +8,4 @@ I'm a Cybersecurity Engineer, Python/Linux user, Java apologist.
 
 ## Tools & Technologies 
 
-[![My Skills](https://skillicons.dev/icons?i=Java,py,azure,windows,linux,aws,terraform,powershell,bash,vscode,html,css)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=java,py,azure,windows,linux,aws,terraform,powershell,bash,vscode,html,css)](https://skillicons.dev) 
