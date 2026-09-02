@@ -10,4 +10,4 @@ Currently taking the CS50X course and learning Java for fun.
 
 ## Tools & Technologies 
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,c,azure,windows,linux,powershell,bash,vscode,html,css,sql)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=java,py,c,azure,windows,linux,powershell,bash,vscode,html,css,mysql)](https://skillicons.dev) 
