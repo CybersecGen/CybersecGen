@@ -2,7 +2,7 @@
 
 **`Digital Craftsman & Cyber Physician`**
 
-I'm a Cybersecurity Engineer, Python/Linux user, Java apologist.
+I'm a Cybersecurity Engineer, Python user, Java apologist.
 
 ---
 
